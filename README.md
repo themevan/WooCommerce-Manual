@@ -7,6 +7,6 @@ We collect the usage of common WooCommerce Hooks and methods while we developing
 * [Add New Custom Fields to Billing Form](WooCommerce-Checkout.md)
 
 ### Follow Us
-* [Our Site](https://www.themevan.com)
-* [Facebook](https://facebook.com/themevan)
-* [Twitter](https://twitter.com/themevan)
+* [Visit Our Site](https://www.themevan.com)
+* [Follow us on Facebook](https://facebook.com/themevan)
+* [Follow us on Twitter](https://twitter.com/themevan)
