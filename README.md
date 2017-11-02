@@ -3,8 +3,8 @@
 We collect the usage of common WooCommerce Hooks and methods while we developing WooCommerce themes and plugins.
 
 ### Content
-* [Using some WC_Order and WC_Abstract_Order methods](WooCommerce-Order.md)
-* [Add New Custom Fields to Billing Form](WooCommerce-Checkout.md)
+* [Using some WC_Order and WC_Abstract_Order methods](docs/WooCommerce-Order.md)
+* [Add New Custom Fields to Billing Form](docs/WooCommerce-Checkout.md)
 
 ### Follow Us
 * [Visit Our Site](https://www.themevan.com/?utm_source=git_woocommerce_manual)
